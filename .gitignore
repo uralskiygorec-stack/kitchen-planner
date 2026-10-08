@@ -1,0 +1,3 @@
+.openai/.sites-state*
+.openai/*.log
+node_modules/
